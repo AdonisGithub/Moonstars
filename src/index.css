@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.customFont {
+	color: black;
+    text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
+}
+.customButton {
+    box-shadow: 1px 1px 9px 1px white;
+    text-shadow: 0px 5px 10px black;
+}
+.customButton:hover {
+  box-shadow: 0px 0px 8px 3px white;
+  text-shadow: 1px 3px 9px black;
+}
+.customButton:active {
+  box-shadow: 1px 1px 9px 1px white;
+  text-shadow: 1px 3px 7px black;
+}
+
+.efct_zom_img{
+	-webkit-transform: scaleY(1);
+	-moz-transform: scaleY(1);
+	-o-transform: scaleY(1);
+	-ms-transform: scaleY(1);
+	transform: scaleY(1);
+	-webkit-transition: all 0.7s ease-in-out;
+	-moz-transition: all 0.7s ease-in-out;
+	-o-transition: all 0.7s ease-in-out;
+	-ms-transition: all 0.7s ease-in-out;
+	transition: all 0.7s ease-in-out;
+}
+.efct_zom_img:hover{
+	-webkit-transform: scale(1.5, 1.5);/* scale(10)*/
+	-moz-transform: scale(1.5, 1.5);/* scale(10)*/
+	-o-transform: scale(1.5, 1.5);/* scale(10)*/
+	-ms-transform: scale(1.5, 1.5);/* scale(10)*/
+	transform: scale(1.5, 1.5);/* scale(10)*/
+	-ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+	opacity: 1;
+	-webkit-transition: all 0.7s ease-in-out;
+	-moz-transition: all 0.7s ease-in-out;
+	-o-transition: all 0.7s ease-in-out;
+	-ms-transition: all 0.7s ease-in-out;
+	transition: all 0.7s ease-in-out;
+}
+.efct_zom_outline {
+  overflow:hidden;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
