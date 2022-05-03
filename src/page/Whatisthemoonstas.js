@@ -7,7 +7,7 @@ const Whatisthemoonstas = () => {
     <div className=" w-full" id="whatisthemoonstas">
         <div className="text-[25px] sm:text-[43px] md:text-[52px] lg:text-[72px] leading-tight font-extrabold mt-14 mb-5 px-11">
             <span className="text-[#00F4F9]"> WHAT IS</span> 
-            <div className="text-white">THE MOONSTA?</div>                    
+            <div className="text-white">THE MOONSTAS?</div>                    
         </div>
         <div className="w-full grid lg:grid-cols-2">
             <div className=" w-full flex justify-start">
