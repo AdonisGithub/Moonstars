@@ -11,7 +11,7 @@ const Utility = () => {
       <div className="flex w-full px-11">
         <div className="w-full lg:w-4/5 text-white font-extrabold text-[16px] sm:text-[22px] md:text-[24px] lg:text-[28px]">
           <div className="flex mb-5">
-            OWNING A MOONSTRA, GIVES YOU THE KEY TO OUR UNIVERSE, AND ALL ITS BENEFITS, WHICH YOU WILL BE ABLE TO COLLECT AS IT MATURES AND GROWS.
+            OWNING A MOONSTA, GIVES YOU THE KEY TO OUR UNIVERSE, AND ALL ITS BENEFITS, WHICH YOU WILL BE ABLE TO COLLECT AS IT MATURES AND GROWS.
           </div>
           <div className="flex mb-5">
             THE FIRST BENEFIT THAT THE HOLDERS WILL BE ABLE TO CLAIM, WILL BE THE DELIVERY OF THE HOLDER PACK OF THE PHYSICAL TGC GAME, THIS WILL BE ABLE TO BE CLAIMED AT THE MOMENT THE GAME IS LAUNCHED.
