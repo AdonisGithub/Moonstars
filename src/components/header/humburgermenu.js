@@ -57,7 +57,7 @@ export default function HumburgerMenu() {
                     {({ active }) => (
                       <Link
                         activeClass="active"
-                        to="whatisthemoonstars"
+                        to="whatisthemoonstas"
                         spy={true}
                         smooth={true}
                         offset={-70}
@@ -71,7 +71,7 @@ export default function HumburgerMenu() {
                               : "bg-[rgb(23,32,54)] bg-opacity-60 text-white "
                           } flex items-center w-full px-2 py-2 text-sm`}
                         >
-                          WHAT IS THE MOONSTARS
+                          WHAT IS THE MOONSTAS
                         </button>
                       </Link>
                     )}
@@ -170,7 +170,7 @@ export default function HumburgerMenu() {
                   </Menu.Item>
                   <Menu.Item>
                     {({ active }) => (
-                      <a href="https://discord.gg/Moonstars" target="_blank" rel="noreferrer">
+                      <a href="https://discord.gg/eYRHGvze" target="_blank" rel="noreferrer">
                         <button
                           className={`${
                             active
@@ -185,7 +185,7 @@ export default function HumburgerMenu() {
                   </Menu.Item>
                   <Menu.Item>
                     {({ active }) => (
-                      <a href="https://www.instagram.com/Moonstars" target="_blank" rel="noreferrer">
+                      <a href="https://www.instagram.com/TheMoonstas" target="_blank" rel="noreferrer">
                         <button
                           className={`${
                             active
@@ -200,7 +200,7 @@ export default function HumburgerMenu() {
                   </Menu.Item>
                   <Menu.Item>
                     {({ active }) => (
-                      <a href="https://twitter.com/Moonstars" target="_blank" rel="noreferrer">
+                      <a href="https://twitter.com/TheMoonstas" target="_blank" rel="noreferrer">
                         <button
                           className={`${
                             active

@@ -31,10 +31,10 @@ const Header = () => {
               >
                 HOME
               </Link>
-              <Link activeClass="active" to="whatisthemoonstars" spy={true} smooth={true} offset={-70} duration={500} delay={100}
+              <Link activeClass="active" to="whatisthemoonstas" spy={true} smooth={true} offset={-70} duration={500} delay={100}
                 className="flex shrink-0 items-center pr-4 py-2 font-semibold text-white active:text-red-600 hover:text-[#00F4F9] mx-1 cursor-pointer"
               >
-                WHAT IS THE MOONSTARS
+                WHAT IS THE MOONSTAS
               </Link>
               <Link activeClass="active" to="roadmap" spy={true} smooth={true} offset={-70} duration={500} delay={100}
                 className="flex shrink-0 items-center pr-4 py-2 font-semibold text-white active:text-red-600 hover:text-[#00F4F9] mx-1 cursor-pointer"
@@ -59,7 +59,7 @@ const Header = () => {
               LORE
             </Link>
             <a
-              href="https://discord.gg/Moonstars"
+              href="https://www.instagram.com/TheMoonstas"
               className="flex shrink-0 items-center pr-4 py-2 font-semibold  mx-1 cursor-pointer"
               target="_blank" rel="noreferrer"
             >
@@ -68,7 +68,7 @@ const Header = () => {
               </svg>            
             </a>
             <a
-              href="https://www.instagram.com/Moonstars"
+              href="https://discord.gg/eYRHGvze"
               className="flex shrink-0 items-center pr-4 py-2 font-semibol  mx-1 cursor-pointer"
               target="_blank" rel="noreferrer"
             >
@@ -77,7 +77,7 @@ const Header = () => {
               </svg>
             </a>
             <a
-              href="https://twitter.com/Moonstars"
+              href="https://twitter.com/TheMoonstas"
               className="flex shrink-0 items-center pr-4 py-2 font-semibold  mx-1 cursor-pointer"
               target="_blank" rel="noreferrer"
             >

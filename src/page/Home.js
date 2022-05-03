@@ -31,7 +31,7 @@ const Home = () => {
                 </div>
                 <div className="flex w-full justify-center mt-8">
                     <a
-                        href={"https://discord.gg/themoonstars"}
+                        href={"https://discord.gg/eYRHGvze"}
                         target="_blank"
                         rel="noreferrer"
                     >

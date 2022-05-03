@@ -16,7 +16,7 @@ const TheTeam = () => {
             text2 = {"@JPEREZ.ART"}
             text3 = {"JAIRO IS A 3D GENERALIST AND CRYPTOCURRENCY ENTHUSIAST, WHO AFTER WORKING ON A FEW NFT PROJECTS, GOT TIRED OF SEEING HOW THINGS WORKED AND DECIDED TO CREATE HIS OWN PROJECT."}
             text4 = {"FOUNDER AND ARTISTIC DIRECTOR"}
-            link = {"https://www.linkedin.com/in/"}
+            link = {"https://www.linkedin.com/in/jairo-perez-0970591a4/"}
           />
           <Teamcard
             team = {"team2"}
@@ -24,15 +24,15 @@ const TheTeam = () => {
             text2 = {""}
             text3 = {"JORDI ROMERO IS AN ADVERTISING STUDENT AND AN ENTHUSIAST OF CRYPTOCURRENCIES AND THE NFT WORLD, MOTIVATED TO CREATE A COMMUNITY AND SHAPE THE PURPOSE OF THIS PROJECT."}
             text4 = {"FOUNDER AND MARKETING DIRECTOR"}
-            link = {"https://www.linkedin.com/in/"}
+            link = {"https://www.linkedin.com/in/jordi-romero-vicente-82b58a238/"}
           />
           <Teamcard
             team = {"team3"}
             text1 = {"NÉSTOR CARRETERO"}
             text2 = {""}
-            text3 = {"NÉSTOR CARRETERO SPECIALIZES IN INTERNATIONAL TRADE, HIS MAIN MOTIVATION IS TO DEVELOP A SOLID INTERNATIONALIZATION PLAN FOR OUR PRODUCT. HIS GOAL IS TO CONSOLIDATE THE MOONSTARS IN ALL ITS POSSIBLE SCOPE."}
+            text3 = {"NÉSTOR CARRETERO SPECIALIZES IN INTERNATIONAL TRADE, HIS MAIN MOTIVATION IS TO DEVELOP A SOLID INTERNATIONALIZATION PLAN FOR OUR PRODUCT. HIS GOAL IS TO CONSOLIDATE THE MOONSTAS IN ALL ITS POSSIBLE SCOPE."}
             text4 = {"FOUNDER TEAM, DISTRIBUTION MANAGER"}
-            link = {"https://www.linkedin.com/in/"}
+            link = {"https://www.linkedin.com/in/n%C3%A9stor-carretero-crespi/"}
           />
           <Teamcard
             team = {"team4"}
@@ -40,16 +40,16 @@ const TheTeam = () => {
             text2 = {""}
             text3 = {"JOAN ALBANI IS A PASIONAL WRITER WHO LOVES FANTASY, MOREOVER, HIS KNOWLEDGE OF HISTORY ALLOWS HIM TO ELABORATE A UNIVERSE WITH A UNIQUE FRAMEWORK."}
             text4 = {"FOUNDER TEAM AND LORE DIRECTOR"}
-            link = {"https://www.linkedin.com/in/"}
+            link = {"https://www.linkedin.com/in/joan-pi%C3%B1as-albani-344853189/"}
           />
           <Teamcard
-            team = {"team5"}
-            text1 = {"MR CRYPTO"}
-            text2 = {""}
-            text3 = {"YOUR TEXT HERE"}
-            text4 = {""}
-            link = {"https://www.linkedin.com/in/"}
-          />
+              team = {"team5"}
+              text1 = {"WANG QIANJIN"}
+              text2 = {""}
+              text3 = {"WANG IS A SENIOR BLOCKCHAIN DEVELOPER. AS A SELF-TAUGHT PROGRAMMER, HE HAS DEVELOPED BUNCH OF BLOCKCHAIN PROJECTS."}
+              text4 = {""}
+              link = {"https://www.linkedin.com/in/"}
+            />
         </div>
         <div className="w-full hidden lg:grid lg:grid-cols-2 xl:hidden">
           <Teamcard
@@ -58,7 +58,7 @@ const TheTeam = () => {
             text2 = {"@JPEREZ.ART"}
             text3 = {"JAIRO IS A 3D GENERALIST AND CRYPTOCURRENCY ENTHUSIAST, WHO AFTER WORKING ON A FEW NFT PROJECTS, GOT TIRED OF SEEING HOW THINGS WORKED AND DECIDED TO CREATE HIS OWN PROJECT."}
             text4 = {"FOUNDER AND ARTISTIC DIRECTOR"}
-            link = {"https://www.linkedin.com/in/"}
+            link = {"https://www.linkedin.com/in/jairo-perez-0970591a4/"}
           />
           <Teamcard
             team = {"team2"}
@@ -66,15 +66,15 @@ const TheTeam = () => {
             text2 = {""}
             text3 = {"JORDI ROMERO IS AN ADVERTISING STUDENT AND AN ENTHUSIAST OF CRYPTOCURRENCIES AND THE NFT WORLD, MOTIVATED TO CREATE A COMMUNITY AND SHAPE THE PURPOSE OF THIS PROJECT."}
             text4 = {"FOUNDER AND MARKETING DIRECTOR"}
-            link = {"https://www.linkedin.com/in/"}
+            link = {"https://www.linkedin.com/in/jordi-romero-vicente-82b58a238/"}
           />
           <Teamcard
             team = {"team3"}
             text1 = {"NÉSTOR CARRETERO"}
             text2 = {""}
-            text3 = {"NÉSTOR CARRETERO SPECIALIZES IN INTERNATIONAL TRADE, HIS MAIN MOTIVATION IS TO DEVELOP A SOLID INTERNATIONALIZATION PLAN FOR OUR PRODUCT. HIS GOAL IS TO CONSOLIDATE THE MOONSTARS IN ALL ITS POSSIBLE SCOPE."}
+            text3 = {"NÉSTOR CARRETERO SPECIALIZES IN INTERNATIONAL TRADE, HIS MAIN MOTIVATION IS TO DEVELOP A SOLID INTERNATIONALIZATION PLAN FOR OUR PRODUCT. HIS GOAL IS TO CONSOLIDATE THE MOONSTAS IN ALL ITS POSSIBLE SCOPE."}
             text4 = {"FOUNDER TEAM, DISTRIBUTION MANAGER"}
-            link = {"https://www.linkedin.com/in/"}
+            link = {"https://www.linkedin.com/in/n%C3%A9stor-carretero-crespi/"}
           />
           <Teamcard
             team = {"team4"}
@@ -82,15 +82,15 @@ const TheTeam = () => {
             text2 = {""}
             text3 = {"JOAN ALBANI IS A PASIONAL WRITER WHO LOVES FANTASY, MOREOVER, HIS KNOWLEDGE OF HISTORY ALLOWS HIM TO ELABORATE A UNIVERSE WITH A UNIQUE FRAMEWORK."}
             text4 = {"FOUNDER TEAM AND LORE DIRECTOR"}
-            link = {"https://www.linkedin.com/in/"}
+            link = {"https://www.linkedin.com/in/joan-pi%C3%B1as-albani-344853189/"}
           />
         </div>
         <div className="w-full hidden lg:grid xl:hidden">
           <Teamcard
               team = {"team5"}
-              text1 = {"MR CRYPTO"}
+              text1 = {"WANG QIANJIN"}
               text2 = {""}
-              text3 = {"YOUR TEXT HERE"}
+              text3 = {"WANG IS A SENIOR BLOCKCHAIN DEVELOPER. AS A SELF-TAUGHT PROGRAMMER, HE HAS DEVELOPED BUNCH OF BLOCKCHAIN PROJECTS."}
               text4 = {""}
               link = {"https://www.linkedin.com/in/"}
             />
@@ -102,7 +102,7 @@ const TheTeam = () => {
             text2 = {"@JPEREZ.ART"}
             text3 = {"JAIRO IS A 3D GENERALIST AND CRYPTOCURRENCY ENTHUSIAST, WHO AFTER WORKING ON A FEW NFT PROJECTS, GOT TIRED OF SEEING HOW THINGS WORKED AND DECIDED TO CREATE HIS OWN PROJECT."}
             text4 = {"FOUNDER AND ARTISTIC DIRECTOR"}
-            link = {"https://www.linkedin.com/in/"}
+            link = {"https://www.linkedin.com/in/jairo-perez-0970591a4/"}
           />
           <Teamcard
             team = {"team2"}
@@ -110,15 +110,15 @@ const TheTeam = () => {
             text2 = {""}
             text3 = {"JORDI ROMERO IS AN ADVERTISING STUDENT AND AN ENTHUSIAST OF CRYPTOCURRENCIES AND THE NFT WORLD, MOTIVATED TO CREATE A COMMUNITY AND SHAPE THE PURPOSE OF THIS PROJECT."}
             text4 = {"FOUNDER AND MARKETING DIRECTOR"}
-            link = {"https://www.linkedin.com/in/"}
+            link = {"https://www.linkedin.com/in/jordi-romero-vicente-82b58a238/"}
           />
           <Teamcard
             team = {"team3"}
             text1 = {"NÉSTOR CARRETERO"}
             text2 = {""}
-            text3 = {"NÉSTOR CARRETERO SPECIALIZES IN INTERNATIONAL TRADE, HIS MAIN MOTIVATION IS TO DEVELOP A SOLID INTERNATIONALIZATION PLAN FOR OUR PRODUCT. HIS GOAL IS TO CONSOLIDATE THE MOONSTARS IN ALL ITS POSSIBLE SCOPE."}
+            text3 = {"NÉSTOR CARRETERO SPECIALIZES IN INTERNATIONAL TRADE, HIS MAIN MOTIVATION IS TO DEVELOP A SOLID INTERNATIONALIZATION PLAN FOR OUR PRODUCT. HIS GOAL IS TO CONSOLIDATE THE MOONSTAS IN ALL ITS POSSIBLE SCOPE."}
             text4 = {"FOUNDER TEAM, DISTRIBUTION MANAGER"}
-            link = {"https://www.linkedin.com/in/"}
+            link = {"https://www.linkedin.com/in/n%C3%A9stor-carretero-crespi/"}
           />
         </div>
         <div className="w-full hidden xl:flex xl:justify-evenly">
@@ -128,13 +128,13 @@ const TheTeam = () => {
               text2 = {""}
               text3 = {"JOAN ALBANI IS A PASIONAL WRITER WHO LOVES FANTASY, MOREOVER, HIS KNOWLEDGE OF HISTORY ALLOWS HIM TO ELABORATE A UNIVERSE WITH A UNIQUE FRAMEWORK."}
               text4 = {"FOUNDER TEAM AND LORE DIRECTOR"}
-              link = {"https://www.linkedin.com/in/"}
+              link = {"https://www.linkedin.com/in/joan-pi%C3%B1as-albani-344853189/"}
             />
           <Teamcard
               team = {"team5"}
-              text1 = {"MR CRYPTO"}
+              text1 = {"WANG QIANJIN"}
               text2 = {""}
-              text3 = {"YOUR TEXT HERE"}
+              text3 = {"WANG IS A SENIOR BLOCKCHAIN DEVELOPER. AS A SELF-TAUGHT PROGRAMMER, HE HAS DEVELOPED BUNCH OF BLOCKCHAIN PROJECTS."}
               text4 = {""}
               link = {"https://www.linkedin.com/in/"}
             />
