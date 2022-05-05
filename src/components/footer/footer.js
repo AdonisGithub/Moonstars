@@ -21,7 +21,9 @@ const Footer = () => {
             <img src={discmoonimg} alt="moonimg"/>
           </div>
           <div className="text-white text-[16px] font-bold">
-            <span>Privacy Policy</span> | <span>Terms & Conditions</span>
+            <a href="/privacypolicy" target="_blank" className="text-white active:text-red-600 hover:text-[#00F4F9]">
+              <span>Privacy Policy</span> | <span>Terms & Conditions</span>
+            </a>
           </div>
           <div className="text-[#D9DBE1] text-[14px]">
             © 2022 THE MOONSTAS. ALL RIGHT RESERVED
