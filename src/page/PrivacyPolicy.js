@@ -5,7 +5,7 @@ const PrivacyPolicy = () => {
 <div className=" w-full bg-black">
       <div className="flex w-full px-11">
         <div className="w-full text-white py-10">
-            <div className="flex justify-center text-[#00F4F9] font-extrabold text-2xl md:text-3xl lg:text-5xl my-5">              
+            <div className="flex justify-center text-[#00F4F9] font-extrabold text-2xl md:text-3xl lg:text-5xl mt-5 mb-7">              
                 PRIVACY POLICY OF THEMOONSTAS
             </div>
 

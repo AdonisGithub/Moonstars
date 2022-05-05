@@ -1,4 +1,5 @@
 import React  from "react";
+import {Link} from "react-router-dom";
 import footerimg from "../../assets/images/FootImg.png";
 import discmoonimg from "../../assets/images/DISCMOON 2.png";
 const Footer = () => {
@@ -21,9 +22,9 @@ const Footer = () => {
             <img src={discmoonimg} alt="moonimg"/>
           </div>
           <div className="text-white text-[16px] font-bold">
-            <a href="/privacypolicy" target="_blank" className="text-white active:text-red-600 hover:text-[#00F4F9]">
+            <Link to="/privacypolicy" target="_blank" className="text-white active:text-red-600 hover:text-[#00F4F9]">
               <span>Privacy Policy</span> | <span>Terms & Conditions</span>
-            </a>
+            </Link>
           </div>
           <div className="text-[#D9DBE1] text-[14px]">
             © 2022 THE MOONSTAS. ALL RIGHT RESERVED
