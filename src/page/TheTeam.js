@@ -20,7 +20,7 @@ const TheTeam = () => {
           />
           <Teamcard
             team = {"team2"}
-            text1 = {"JAIRO JORDI ROMERO"}
+            text1 = {"JORDI ROMERO"}
             text2 = {""}
             text3 = {"JORDI ROMERO IS AN ADVERTISING STUDENT AND AN ENTHUSIAST OF CRYPTOCURRENCIES AND THE NFT WORLD, MOTIVATED TO CREATE A COMMUNITY AND SHAPE THE PURPOSE OF THIS PROJECT."}
             text4 = {"FOUNDER AND MARKETING DIRECTOR"}
@@ -62,7 +62,7 @@ const TheTeam = () => {
           />
           <Teamcard
             team = {"team2"}
-            text1 = {"JAIRO JORDI ROMERO"}
+            text1 = {"JORDI ROMERO"}
             text2 = {""}
             text3 = {"JORDI ROMERO IS AN ADVERTISING STUDENT AND AN ENTHUSIAST OF CRYPTOCURRENCIES AND THE NFT WORLD, MOTIVATED TO CREATE A COMMUNITY AND SHAPE THE PURPOSE OF THIS PROJECT."}
             text4 = {"FOUNDER AND MARKETING DIRECTOR"}
@@ -106,7 +106,7 @@ const TheTeam = () => {
           />
           <Teamcard
             team = {"team2"}
-            text1 = {"JAIRO JORDI ROMERO"}
+            text1 = {"JORDI ROMERO"}
             text2 = {""}
             text3 = {"JORDI ROMERO IS AN ADVERTISING STUDENT AND AN ENTHUSIAST OF CRYPTOCURRENCIES AND THE NFT WORLD, MOTIVATED TO CREATE A COMMUNITY AND SHAPE THE PURPOSE OF THIS PROJECT."}
             text4 = {"FOUNDER AND MARKETING DIRECTOR"}
